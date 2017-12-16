@@ -1,2 +1,2 @@
-# Lab---Strings
-(Russian) Translation of Lab "Strings" from App Development with Swift 4
+# App-Dev-Swift-Labs
+Russian language translation of labs from Apple's course "App Development with Swift"
