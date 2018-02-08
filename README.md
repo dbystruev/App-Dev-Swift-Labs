@@ -1,5 +1,5 @@
 # App-Dev-Swift-Labs
-Russian language translation of labs from Apple's course "App Development with Swift"
+Russian language translation of labs from Apple's course "[App Development with Swift](https://itunes.apple.com/ru/book/app-development-with-swift/id1219117996)"
 
 ## Unit 2 — Introduction to UIKit
 ### Lesson 1 — Strings
