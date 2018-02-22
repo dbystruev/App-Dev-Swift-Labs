@@ -6,7 +6,7 @@ Russian language translation of labs from Apple's course "[App Development with 
 [Lab: Introduction](https://github.com/dbystruev/App-Dev-Swift-Labs/blob/master/Lab%20-%20Introduction.playground.zip)
 
 ### Lesson 2 - Constants, Variables, and Data Types
-[Lab: 2 - Constants and Variables](https://github.com/dbystruev/App-Dev-Swift-Labs/blob/master/Lab%20-%20Constants%20and%20Variables.playground.zip)
+[Lab: Constants and Variables](https://github.com/dbystruev/App-Dev-Swift-Labs/blob/master/Lab%20-%20Constants%20and%20Variables.playground.zip)
 
 
 ## Unit 2 — Introduction to UIKit
