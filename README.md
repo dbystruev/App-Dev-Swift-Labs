@@ -3,10 +3,10 @@ Russian language translation of labs from Apple's course "[App Development with 
 
 ## Unit 1 - Getting Started
 ### Lesson 1 - Introduction to Swift and Playgrounds
-[Lab: Introduction](https://github.com/dbystruev/App-Dev-Swift-Labs/blob/master/Lab%20-%20Introduction.playground.zip)
+[Lab: Introduction](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Lab%20-%20Introduction.playground.zip)
 
 ### Lesson 2 - Constants, Variables, and Data Types
-[Lab: Constants and Variables](https://github.com/dbystruev/App-Dev-Swift-Labs/blob/master/Lab%20-%20Constants%20and%20Variables.playground.zip)
+[Lab: Constants and Variables](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Lab%20-%20Constants%20and%20Variables.playground.zip)
 
 
 ## Unit 2 — Introduction to UIKit
@@ -17,7 +17,7 @@ Russian language translation of labs from Apple's course "[App Development with 
 [Lab: Functions](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Lab%20-%20Functions.playground.zip)
 
 ### Lesson 3 — Structures (work in progress — 3 of 10 pages translated so far)
-[Lab: Structures](https://github.com/dbystruev/App-Dev-Swift-Labs/blob/master/Lab%20-%20Structures.playground.zip)
+[Lab: Structures](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Lab%20-%20Structures.playground.zip)
 
 ### Lesson 4 — Classes and Inheritance
-[Lab: Classes and Inheritance](https://github.com/dbystruev/App-Dev-Swift-Labs/blob/master/Lab%20-%20Classes.playground.zip)
+[Lab: Classes and Inheritance](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Lab%20-%20Classes.playground.zip)
