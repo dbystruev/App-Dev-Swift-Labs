@@ -10,3 +10,6 @@ Russian language translation of labs from Apple's course "[App Development with 
 
 ### Lesson 3 — Structures (work in progress — 3 of 10 pages translated so far)
 [Lab: Structures](https://github.com/dbystruev/App-Dev-Swift-Labs/blob/master/Lab%20-%20Structures.playground.zip)
+
+### Lesson 4 — Classes and Inheritance (work in progress — 2 of 4 pages translated so far)
+[Lab: Classes and Inheritance](https://github.com/dbystruev/App-Dev-Swift-Labs/blob/master/Lab%20-%20Classes.playground.zip)
