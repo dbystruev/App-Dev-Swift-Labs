@@ -39,3 +39,7 @@ Russian language translation of labs from Apple's course "[App Development with 
 ### Lesson 5 — Collections
 ### Урок 5 — коллекции
 [Lab: Collections](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Lab%20-%20Collections.playground.zip)
+
+### Lesson 6 — Loops
+### Урок 6 — циклы
+[Lab: Loops](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Lab%20-%20Loops.playground.zip)
