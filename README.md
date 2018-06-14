@@ -4,42 +4,34 @@ Russian language translation of labs from Apple's course "[App Development with 
 Перевод на русский язык лабораторных работ из курса Apple "[Разработка мобильных приложений на языке Swift](https://itunes.apple.com/ru/book/app-development-with-swift/id1219117996)"
 
 
-## Unit 1 - Getting Started
-## Раздел 1 - Введение
+## Раздел 1 - Введение (Unit 1 - Getting Started)
 
-### Lesson 1 - Introduction to Swift and Playgrounds
-### Урок 1 - Введение в язык Swift и Playgrounds
+### Урок 1 - Введение в язык Swift и Playgrounds (Lesson 1 - Introduction to Swift and Playgrounds)
 [Lab: Introduction](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Lab%20-%20Introduction.playground.zip)
 
-### Lesson 2 - Constants, Variables, and Data Types
-### Урок 2 - Константы, переменные и типы данных
+### Урок 2 - Константы, переменные и типы данных (Lesson 2 - Constants, Variables, and Data Types)
 [Lab: Constants and Variables](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Lab%20-%20Constants%20and%20Variables.playground.zip)
 
+### Урок 3 — Операторы (Lesson 3 — Operators)
+[Lab: Operators](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Lab%20-%20Operators.playground.zip)
 
 
-## Unit 2 — Introduction to UIKit
-## Unit 2 — Знакомство с UIKit
+## Раздел 2 — Знакомство с UIKit (Unit 2 — Introduction to UIKit)
 
-### Lesson 1 — Strings
-### Урок 1 — Строки
+### Урок 1 — Строки (Lesson 1 — Strings)
 [Lab: Strings](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Lab%20-%20Strings.playground.zip)
 
-### Lesson 2 — Functions
-### Урок 2 — Функции
+### Урок 2 — Функции (Lesson 2 — Functions)
 [Lab: Functions](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Lab%20-%20Functions.playground.zip)
 
-### Lesson 3 — Structures (work in progress — 3 of 10 pages translated so far)
-### Урок 3 — Структуры (в работе — переведены 3 из 10 страниц)
+### Урок 3 — Структуры (в работе — переведены 3 из 10 страниц) (Lesson 3 — Structures (work in progress — 3 of 10 pages translated so far))
 [Lab: Structures](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Lab%20-%20Structures.playground.zip)
 
-### Lesson 4 — Classes and Inheritance
-### Урок 4 — Классы и наследование
+### Урок 4 — Классы и наследование (Lesson 4 — Classes and Inheritance)
 [Lab: Classes and Inheritance](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Lab%20-%20Classes.playground.zip)
 
-### Lesson 5 — Collections
-### Урок 5 — коллекции
+### Урок 5 — коллекции (Lesson 5 — Collections)
 [Lab: Collections](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Lab%20-%20Collections.playground.zip)
 
-### Lesson 6 — Loops
-### Урок 6 — циклы
+### Урок 6 — циклы (Lesson 6 — Loops)
 [Lab: Loops](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Lab%20-%20Loops.playground.zip)
