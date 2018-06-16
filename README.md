@@ -1,5 +1,5 @@
 # App-Dev-Swift-Labs
-Russian language translation of labs from Apple's course "[App Development with Swift](https://itunes.apple.com/ru/book/app-development-with-swift/id1219117996)"
+Russian language translation of labs from Apple's course "[App Development with Swift](https://itunes.apple.com/us/book/app-development-with-swift/id1219117996)"
 
 Перевод на русский язык лабораторных работ из курса Apple "[Разработка мобильных приложений на языке Swift](https://itunes.apple.com/ru/book/app-development-with-swift/id1219117996)"
 
