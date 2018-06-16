@@ -15,6 +15,9 @@ Russian language translation of labs from Apple's course "[App Development with 
 #### Урок 3 — Операторы (Lesson 3 — Operators)
 [Lab: Operators](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Lab%20-%20Operators.playground.zip)
 
+#### Урок 4 — Управляющая логика программы (Lesson 3 — Control Flow)
+[Lab: Control Flow](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Lab%20-%20Control%20Flow.playground.zip)
+
 
 ## Раздел 2 — Знакомство с UIKit (Unit 2 — Introduction to UIKit)
 
