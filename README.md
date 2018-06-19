@@ -18,6 +18,21 @@ Russian language translation of labs from Apple's course "[App Development with 
 #### Урок 4: Управляющая логика программы (Lesson 4 — Control Flow)
 [Lab: Control Flow](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Lab%20-%20Control%20Flow.playground.zip)
 
+#### Урок 5: Xcode (Lesson 5 — Xcode)
+Лабораторной работы не предусмотрено.
+
+#### Урок 6: Компиляция, запуск и отладка приложения (Lesson 6 — Building, Running, Debugging an App)
+[First Time Debugging](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/FirstTimeDebugging.zip)
+
+#### Урок 7: Документация (Lesson 7 — Documentation)
+Лабораторной работы не предусмотрено.
+
+#### Урок 8: Основы Interface Builder (Lesson 8 — Interface Builder Basics)
+Лабораторной работы не предусмотрено.
+
+#### Урок 9: Пошаговый проект Light — фонарик (Lesson 9 — Guided Project — Light)
+[Проект фонарик](https://github.com/dbystruev/Guided-Project-Light)
+
 
 ## Раздел 2: Знакомство с UIKit (Unit 2 — Introduction to UIKit)
 
