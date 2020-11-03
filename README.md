@@ -55,3 +55,23 @@ Russian language translation of labs from Apple's course "[App Development with 
 
 #### Урок 6: Циклы (Lesson 6 — Loops)
 [Lab: Loops](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Lab%20-%20Loops.playground.zip)
+
+
+
+## Раздел 3: Навигация и рабочие циклы (Unit 3 - Navigation and Workflows)
+
+#### Урок 1: Опциональные значения (Lesson 1 - Optionals)
+[Lab: Optionals](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Optionals.playground.zip)
+
+#### Урок 2: Приведение типов и их контроль (Lesson 2 - Type Casting)
+[Lab: Type Casting](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Lab%20-%20Type%20Casting.playground.zip)
+
+#### Урок 3: Оператор Guard (Lesson 3 - Guard)
+[Lab: Guard](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Lab%20-%20Guard.playground.zip)
+
+#### Урок 4: Области видимости (Lesson 4 - Scope)
+[Lab: Scope](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Lab%20-%20Scope.playground.zip)
+
+#### Урок 5: Перечисления (Lesson 5 - Enumerations)
+[Lab: Enumerations](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Lab%20-%20Enumerations.playground.zip)
+
