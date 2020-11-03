@@ -61,7 +61,7 @@ Russian language translation of labs from Apple's course "[App Development with 
 ## Раздел 3: Навигация и рабочие циклы (Unit 3 - Navigation and Workflows)
 
 #### Урок 1: Опциональные значения (Lesson 1 - Optionals)
-[Lab: Optionals](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Optionals.playground.zip)
+[Lab: Optionals](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Lab%20-%20Optionals.playground.zip)
 
 #### Урок 2: Приведение типов и их контроль (Lesson 2 - Type Casting)
 [Lab: Type Casting](https://github.com/dbystruev/App-Dev-Swift-Labs/raw/master/Lab%20-%20Type%20Casting.playground.zip)
